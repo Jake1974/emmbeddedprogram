@@ -1194,16 +1194,16 @@ Image component sizes
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Object Name
 
          0          0          0          0          0       4540   core_cm3.o
-        76         22          0          0          0        471   main.o
-       726         22       1520          0          0     207815   oled.o
-        64         26        304          0       1536        784   startup_stm32f10x_hd.o
-       288          0          0          0          0      10712   stm32f10x_gpio.o
-        26          0          0          0          0       3658   stm32f10x_it.o
-        32          6          0          0          0        529   stm32f10x_rcc.o
-       328         28          0          0          0      10113   system_stm32f10x.o
+        76         22          0          0          0        451   main.o
+       726         22       1520          0          0     207523   oled.o
+        64         26        304          0       1536        764   startup_stm32f10x_hd.o
+       288          0          0          0          0      10628   stm32f10x_gpio.o
+        26          0          0          0          0       3470   stm32f10x_it.o
+        32          6          0          0          0        505   stm32f10x_rcc.o
+       328         28          0          0          0      10013   system_stm32f10x.o
 
     ----------------------------------------------------------------------
-      1546        104       1840          0       1536     238622   Object Totals
+      1546        104       1840          0       1536     237894   Object Totals
          0          0         16          0          0          0   (incl. Generated)
          6          0          0          0          0          0   (incl. Padding)
 
@@ -1251,8 +1251,8 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   
 
-      1796        120       1840          0       1632     237730   Grand Totals
-      1796        120       1840          0       1632     237730   ELF Image Totals
+      1796        120       1840          0       1632     237002   Grand Totals
+      1796        120       1840          0       1632     237002   ELF Image Totals
       1796        120       1840          0          0          0   ROM Totals
 
 ==============================================================================
